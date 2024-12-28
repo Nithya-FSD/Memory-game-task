@@ -27,7 +27,7 @@
   ## Required images
   
   -card back: smile-icon(1).png
-  -card front: add the cartoon images(./ghost-8250317_640.png, ./panda-8536525_640.png.....etc).
+  -card front: add the cartoon images(./ghost-8250317_640.png,..etc).
   -Images 6 pairs write in HTML code
   
    
